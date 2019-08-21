@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/pages/home.jsp=UTF-8
+encoding//WebContent/pages/login.jsp=UTF-8
+encoding//WebContent/pages/mass.jsp=UTF-8
+encoding//WebContent/user/_menu.jsp=UTF-8
+encoding//src/com/webapp/filter/JDBCFilter.java=UTF-8
+encoding//src/com/webapp/servlet/LoginServlet.java=UTF-8
+encoding//src/com/webapp/servlet/MassServlet.java=UTF-8
+encoding//src/com/webapp/servlet/addSinhVien.java=UTF-8
